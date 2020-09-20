@@ -29,27 +29,3 @@ var kfriendsPerYear = kateNumberYears / kateNumberFriends;
 
 var jonFullName = jonFirstName + jonMiddleInitial + jonLastName;
 var kateFullName = kateFirstName + kateMiddleInitial + kateLastName;
-
-if (10 > 5) { 
-    console.log('ten is less than five');
-}  else { 
-       console.log('ten is not less than five');
-}
-if ( 10 > 5 )  {
-
-} else
-
-// Probably not fully getting this yet
-
-
- (var i = 0; i < 10; i++) {
-
-  if (i  == 3 || i == 6) {
-
-    i++;
-
-  }
-
-  console.log(i);
-
-}if (10 > 5)
