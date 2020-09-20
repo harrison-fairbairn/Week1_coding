@@ -29,3 +29,12 @@ var kfriendsPerYear = kateNumberYears / kateNumberFriends;
 
 var jonFullName = jonFirstName + jonMiddleInitial + jonLastName;
 var kateFullName = kateFirstName + kateMiddleInitial + kateLastName;
+
+// On to question 6 
+
+let jonAmountMoney = "500";
+console.log('Jon has this much money:' +500)
+
+let kateAmountMoney = "300";
+console.log('Kate has this much money:' +300)
+
